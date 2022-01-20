@@ -1,1 +1,1 @@
-# Aryan-Patel-projects
+# Aryan-Patel-ML-projects
